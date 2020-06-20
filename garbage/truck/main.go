@@ -1,7 +1,7 @@
-package main;
+package truck;
 
 import "C"
 
-func main() {
+func whatevs() {
 }
 
